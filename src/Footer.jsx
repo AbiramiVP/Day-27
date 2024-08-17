@@ -4,7 +4,7 @@ import React from 'react';
 const Footer = () => {
   return (
     <footer className="footer fixed-bottom">
-      <p>© 2024 Your Website Name</p>
+      <p>© 2024 Abirami P</p>
     </footer>
   );
 };
